@@ -1,4 +1,4 @@
-var nota1 = 5;
+var nota1 = 9;
 var nota2 = 7;
 var media = (nota1+nota2)/2
 
